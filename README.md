@@ -30,9 +30,9 @@
 - [📝 License](#license)
 
 
-# 📖 FireBorne Entertainment <a name="about-project"></a>
+# 📖 Name of the Project <a name="about-project"></a>
 
-This is a home page for FireBorne Entertainment. We are making exciting AR/VR experiences.
+a small description of the project
 
 ## 🛠 Built With <a name="built-with"></a>
 
