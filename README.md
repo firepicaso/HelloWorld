@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>VergenceXR</b></h3>
+  <h3><b>App Name</b></h3>
 
 </div>
 <br>
