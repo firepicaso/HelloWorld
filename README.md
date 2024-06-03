@@ -1,10 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./FireBorne.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>FireBorne Entertainment</b></h3>
+  <h3><b>VergenceXR</b></h3>
 
 </div>
 <br>
